@@ -28,7 +28,7 @@ It provides a user-friendly interface that allows users to:
 - The program will also update the stock levels automatically and show alerts when stock is low
 - The program includes basic input validation to prevent errors when users enter incorrect information (words instead of numbers and incorrect spelling of the items names).
 
-----
+---
 
 HOW TO RUN THE PROGRAM:
 
