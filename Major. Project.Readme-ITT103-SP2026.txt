@@ -6,9 +6,9 @@ Date Created: April 15, 2026
 
 Course: ITT103
 
-GitHub Public URL to Code:https://github.com/nhylton10-source/Hylton.Nathan-POS-ITT103-SP2026.py/blob/main/POSMajorProject_Group4.py
-			  https://github.com/AddiaWilson/PT-MAJOR-PROJECT-/blob/main/POSMajorProject_Group4.py
-			  https://github.com/rfreckleton10-spec/POS-System-ITT103/blob/main/POSMajorProject_Group4%20(1).py
+GitHub Public URL to Code: https://github.com/nhylton10-source/POSMajor.Project.Group4.ITT103-SP2026.py/blob/main/POSMajorProject_Group4.py
+			               https://github.com/AddiaWilson/PT-MAJOR-PROJECT-/blob/main/POSMajorProject_Group4.py
+			               https://github.com/rfreckleton10-spec/POS-System-ITT103/blob/main/POSMajorProject_Group4%20(1).py
 
 PROGRAM TITLE: Simple POS (Point of Sale) System
 
